@@ -147,8 +147,6 @@ Settings live in `/sticky/` (`ui_prefs.json`, `wifi.json`, `ble_kb.json`).
 
 - Registry firmware version: `1.0.0`
 - License: MIT (Copyright 2026 Joshua Hinton; Sticky port: LowFlowIO)
-- Build system: PlatformIO (Arduino + ESP-IDF). Playground CI does not build
-  PlatformIO, so this entry is firmware-only.
 - Flash: merged image at offset `0`, DIO, 40 MHz, 32 MB declared size.
 - Do not flash QIO / 80 MHz. That bootlooped this board.
 
