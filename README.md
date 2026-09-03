@@ -1,5 +1,7 @@
 # Sticky MicroNotes
 
+<img src="preview.jpg" alt="Sticky MicroNotes on reTerminal Sticky" width="400">
+
 Sticky MicroNotes is a community writing firmware for Seeed Studio reTerminal
 Sticky. It is a port/update of MicroSlate to the Sticky's ESP32-S3, e-ink panel, 
 GT911 touch, and power rails.
